@@ -1,2 +1,3 @@
 # chawintree.com
-Personal website
+Personal website of Chawin Tree.
+Using [Skeleton](http://getskeleton.com) for styling.
