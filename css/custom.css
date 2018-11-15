@@ -18,5 +18,6 @@
 
 .logo:hover {
     transform: scale(1.2); 
+    filter: brightness(70%);
     -webkit-filter: brightness(70%);
 }
